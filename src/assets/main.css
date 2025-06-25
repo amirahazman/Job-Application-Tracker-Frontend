@@ -28,30 +28,21 @@ html, body, #app {
   width: 100%;
 }
 
-
-/* a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-  padding: 3px;
-} */
-
-/* @media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
+.login-header {
+  color: darkblue;
+  margin-bottom: 40px;
+  text-align: center;
 }
 
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
+.text-header {
+   color: blueviolet;
+   margin-bottom: 15px;
+}
 
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
-} */
+.button-login{
+  padding: 10px 10px;
+  color: #ffffff;
+  width: 100%;
+  background-color: green;
+  margin-bottom: 20px;
+}

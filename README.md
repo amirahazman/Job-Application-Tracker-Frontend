@@ -1,12 +1,14 @@
-# My Resume
-
-A simple web app to show my resume
+# My Job Application Tracker
+A simple web app to manage job application
 
 ## Features
-- View my resume
+- Add / edit / delete job application
+- Fields: Company, Title, Status, Date, Notes
+- Filter: e.g. by status ("Applied", "Interview", etc)
 
 ## Tech Stack
 - Frontend: Vue.js 3, Vite
+- Backend: Golang, Postgresql
 
 ## Getting Started
 1. Clone the repo
